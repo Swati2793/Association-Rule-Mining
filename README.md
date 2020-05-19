@@ -3,6 +3,7 @@
 Online retail company XYZ sells various products and looking to increase its revenue by promoting cross-selling (i.e. selling related or complementary items) opportunities to its customers. 
 Through association rule mining, the analytics team can uncover hidden patterns to determine which products should be recommended when certain products are bought by users. This is a sample dataset hence, has only 2k unique transactions.
 
+
 The notebook has the following flow:
 
 1. Data Check - Generating stats about dataset and basic EDA to gauge cleanliness of data
